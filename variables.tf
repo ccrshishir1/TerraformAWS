@@ -8,7 +8,7 @@ variable "privateCIDRblock" {}
 variable "publicAZ" {}
 variable "public1AZ" {}
 variable "privateAZ" {}
-variable "webamis"{
+variable "webamis" {
     type = "map"
 }
 variable "webinstancetype" {}
