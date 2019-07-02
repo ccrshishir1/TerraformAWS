@@ -4,13 +4,13 @@ region= "us-east-1"
 
 webamis = {
     "us-east-1" = "ami-024a64a6685d05041"
-    "us-west-1" = "ami-def456"
+    "us-west-1" = "ami-06397100adf427136"
 }
 webinstancetype = "t2.micro"
 
 databaseamis = {
     "us-east-1" = "ami-024a64a6685d05041"
-    "us-west-1" = "ami-def456"
+    "us-west-1" = "ami-06397100adf427136"
 }
 databaseinstancetype = "t2.micro"
 
@@ -24,6 +24,6 @@ privateAZ = "us-east-1c"
 
 asgami = {
     "us-east-1" = "ami-024a64a6685d05041"
-    "us-west-1" = "ami-def456"
+    "us-west-1" = "ami-06397100adf427136"
 }
 
